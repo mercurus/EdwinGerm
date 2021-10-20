@@ -1,0 +1,108 @@
+{
+"width":10,
+"height":10,
+"colorPalette":[-14737633, -11709636, -7629459, -3879007, -9227218],
+"backgroundColor":3,
+
+"pixelLayers":[{
+	"paletteIndex":0,
+	"pixelLayerName":"btn shade",
+	"dots":[
+		19, 29, 39, 49, 59, 69, 79, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 
+	]
+},{
+	"paletteIndex":1,
+	"pixelLayerName":"btn hilight",
+	"dots":[
+		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 30, 40, 50, 60, 70, 80, 
+	]
+},{
+	"paletteIndex":1,
+	"pixelLayerName":"bgd shade",
+	"dots":[
+		
+	]
+},{
+	"paletteIndex":2,
+	"pixelLayerName":"eye white",
+	"dots":[
+		24, 25, 32, 33, 34, 35, 36, 37, 41, 42, 43, 44, 45, 46, 47, 48, 51, 52, 53, 54, 55, 56, 57, 58, 62, 
+		63, 64, 65, 66, 67, 74, 75, 
+	]
+},{
+	"paletteIndex":1,
+	"pixelLayerName":"eye back",
+	"dots":[
+		24, 25, 32, 33, 36, 37, 41, 48, 51, 55, 58, 62, 63, 66, 67, 74, 75, 
+	]
+},{
+	"paletteIndex":0,
+	"pixelLayerName":"pupil",
+	"dots":[
+		44, 45, 54, 55, 
+	]
+},{
+	"paletteIndex":2,
+	"pixelLayerName":"dwn outline",
+	"dots":[
+		31, 32, 33, 34, 35, 36, 37, 38, 41, 48, 52, 57, 63, 66, 74, 75, 
+	]
+},{
+	"paletteIndex":1,
+	"pixelLayerName":"dwn fill",
+	"dots":[
+		41, 42, 43, 44, 45, 46, 47, 52, 53, 54, 55, 56, 63, 64, 65, 
+	]
+},{
+	"paletteIndex":0,
+	"pixelLayerName":"dwn shade",
+	"dots":[
+		48, 57, 66, 74, 75, 
+	]
+},{
+	"paletteIndex":0,
+	"pixelLayerName":"clr blue",
+	"dots":[
+		23, 24, 25, 26, 32, 33, 34, 35, 36, 37, 42, 43, 44, 45, 46, 47, 52, 53, 54, 55, 56, 57, 62, 63, 64, 
+		65, 66, 67, 73, 74, 75, 76, 
+	]
+},{
+	"paletteIndex":4,
+	"pixelLayerName":"clr red",
+	"dots":[
+		23, 24, 32, 33, 34, 42, 43, 44, 52, 53, 54, 62, 63, 64, 73, 74, 
+	]
+},{
+	"paletteIndex":4,
+	"pixelLayerName":"redX",
+	"dots":[
+		11, 18, 22, 27, 33, 36, 44, 45, 54, 55, 63, 66, 72, 77, 81, 88, 
+	]
+},{
+	"paletteIndex":4,
+	"pixelLayerName":"redN",
+	"dots":[
+		22, 23, 27, 32, 33, 37, 42, 44, 47, 52, 55, 57, 62, 66, 67, 72, 76, 77, 
+	]
+}],
+
+"albumPages":[{
+	"pageName":"delete",
+	"layerNumbers":[0, 1, 11],
+},{
+	"pageName":"editName",
+	"layerNumbers":[0, 1, 12],
+},{
+	"pageName":"editColor",
+	"layerNumbers":[0, 1, 9, 10],
+},{
+	"pageName":"isVisible",
+	"layerNumbers":[0, 1, 3, 4, 5],
+},{
+	"pageName":"isNotVisible",
+	"layerNumbers":[2, 3],
+},{
+	"pageName":"moveDown",
+	"layerNumbers":[0, 1, 6, 7, 8],
+}]
+}

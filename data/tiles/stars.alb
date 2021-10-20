@@ -1,0 +1,164 @@
+{
+"width":9,
+"height":9,
+"colorPalette":[-15066068, -10672291, -5161389, -1082025, -12939, -5771152, -13060252, -14323335, -14076305, -12886583, -12474634, -9179145, -723724, -7032638, -11113338, -13419433],
+"backgroundColor":null,
+
+"pixelLayers":[{
+	"pixelLayerName":"newlayer",
+	"paletteIndex":8,
+	"dots":[
+		20, 23, 30, 31, 39, 40, 47, 50, 
+	]
+},{
+	"pixelLayerName":"newlayer",
+	"paletteIndex":9,
+	"dots":[
+		30, 31, 39, 40, 
+	]
+},{
+	"pixelLayerName":"newlayer",
+	"paletteIndex":8,
+	"dots":[
+		31, 39, 40, 41, 49, 
+	]
+},{
+	"pixelLayerName":"newlayer",
+	"paletteIndex":9,
+	"dots":[
+		31, 39, 40, 41, 49, 
+	]
+},{
+	"pixelLayerName":"newlayer",
+	"paletteIndex":9,
+	"dots":[
+		40, 
+	]
+},{
+	"pixelLayerName":"newlayer",
+	"paletteIndex":8,
+	"dots":[
+		22, 31, 38, 39, 40, 41, 42, 49, 58, 
+	]
+},{
+	"pixelLayerName":"newlayer",
+	"paletteIndex":9,
+	"dots":[
+		31, 39, 40, 41, 49, 
+	]
+},{
+	"pixelLayerName":"newlayer",
+	"paletteIndex":9,
+	"dots":[
+		22, 38, 41, 42, 58, 
+	]
+},{
+	"pixelLayerName":"newlayer",
+	"paletteIndex":8,
+	"dots":[
+		21, 22, 29, 30, 31, 32, 38, 39, 40, 41, 48, 49, 
+	]
+},{
+	"pixelLayerName":"newlayer",
+	"paletteIndex":9,
+	"dots":[
+		21, 22, 29, 30, 31, 32, 38, 39, 40, 41, 48, 49, 
+	]
+},{
+	"pixelLayerName":"newlayer",
+	"paletteIndex":10,
+	"dots":[
+		30, 31, 39, 40, 
+	]
+},{
+	"pixelLayerName":"newlayer",
+	"paletteIndex":8,
+	"dots":[
+		4, 13, 21, 22, 23, 29, 30, 31, 32, 33, 36, 37, 38, 39, 40, 41, 42, 43, 44, 47, 48, 49, 50, 51, 57, 
+		58, 59, 67, 76, 
+	]
+},{
+	"pixelLayerName":"newlayer",
+	"paletteIndex":9,
+	"dots":[
+		31, 39, 40, 41, 49, 
+	]
+},{
+	"pixelLayerName":"newlayer",
+	"paletteIndex":10,
+	"dots":[
+		40, 
+	]
+},{
+	"pixelLayerName":"newlayer",
+	"paletteIndex":8,
+	"dots":[
+		30, 31, 39, 40, 
+	]
+},{
+	"pixelLayerName":"newlayer",
+	"paletteIndex":9,
+	"dots":[
+		30, 31, 39, 40, 
+	]
+},{
+	"pixelLayerName":"newlayer",
+	"paletteIndex":8,
+	"dots":[
+		40, 
+	]
+},{
+	"pixelLayerName":"newlayer",
+	"paletteIndex":9,
+	"dots":[
+		40, 
+	]
+}],
+
+"albumPages":[{
+	"pageName":"bright",
+	"layerNumbers":[11, 12, 13],
+},{
+	"pageName":"dim x",
+	"layerNumbers":[0],
+},{
+	"pageName":"bright x",
+	"layerNumbers":[0, 1],
+},{
+	"pageName":"dim cross",
+	"layerNumbers":[5, 13],
+},{
+	"pageName":"mid cross",
+	"layerNumbers":[5, 6, 13],
+},{
+	"pageName":"bright cross",
+	"layerNumbers":[5, 6, 7, 13],
+},{
+	"pageName":"dim circ",
+	"layerNumbers":[8, 10],
+},{
+	"pageName":"bright circ",
+	"layerNumbers":[8, 9, 10],
+},{
+	"pageName":"sm dim cross",
+	"layerNumbers":[2, 4],
+},{
+	"pageName":"sm mid cross",
+	"layerNumbers":[2, 13],
+},{
+	"pageName":"sm bright cross",
+	"layerNumbers":[3, 13],
+},{
+	"pageName":"dim square",
+	"layerNumbers":[14],
+},{
+	"pageName":"mid square",
+	"layerNumbers":[15],
+},{
+	"pageName":"dim dot",
+	"layerNumbers":[16],
+},{
+	"pageName":"mid dot",
+	"layerNumbers":[17],
+}]
+}
